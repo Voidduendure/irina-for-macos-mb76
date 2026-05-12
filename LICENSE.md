@@ -1,4 +1,4 @@
-
+Enhance Irina for macOS with Irina for macOS rare Addon - app-uninstaller and malware-scanner, the #1 addon. Includes app-uninstaller and malware-scanner for a smoother macOS
 
 
 
